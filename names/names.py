@@ -1,4 +1,5 @@
 import time
+from bst import BSTNode
 
 start_time = time.time()
 
